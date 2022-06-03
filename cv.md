@@ -7,6 +7,7 @@
 - **Phone**: +7 (9**) \*\*\* - \*\* - \*\*
 - **Email**: \*\*\*\*\*\*\*\*\*@gmail.com
 - **GitHub**: [nucluster](https://github.com/nucluster)
+- **Discord**: nucluster#4027
 
 ## About Me 
 Now I'am studying `HTML`, `CSS` and `JavaScript` @ [RS School](https://rs.school/)
