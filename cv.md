@@ -5,7 +5,7 @@
 ## Contacts
 - **Location**: Snezhinsk, Russia
 - **Phone**: +7 (9**) \*\*\* - \*\* - \*\*
-- **Email**: \*\*\*\*\*\*\*\*@gmail.com
+- **Email**: \*\*\*\*\*\*\*\*\@gmail.com
 - **GitHub**: [nucluster](https://github.com/nucluster)
 
 ## About Me 
