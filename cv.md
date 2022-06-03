@@ -20,12 +20,9 @@ Now I'am studying `HTML`, `CSS` and `JavaScript` @ [RS School](https://rs.school
 
 ## Code Example
 ```javascript
-function sum(a, b) {
-  return a + b;
+function hello_world() {
+  console.log("Hello, World!");
 }
-
-let result = sum(1, 2);
-alert( result );
 ```
 
 ## Education 
