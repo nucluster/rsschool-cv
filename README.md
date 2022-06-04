@@ -1,1 +1,1 @@
-https://nucluster.github.io/rsschool-cv/cv
+https://nucluster.github.io/rsschool-cv/
