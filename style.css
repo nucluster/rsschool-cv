@@ -1,5 +1,70 @@
-h1 {
-    color: orange;
-    font-family: Arial, Verdana, sans-serif;
-    text-align: left;
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth; 
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  min-height: 50px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+}
+
+.main {
+  margin-bottom: auto;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.section {
+  width: 50%;
+}
+
+.footer {
+  padding: 20px;  
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.github {
+  background-image: url("./svg/github.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.rss {
+  width: 121px;
+  height: 45px;
+  background-image: url("./svg/rs_school_js.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
 }
